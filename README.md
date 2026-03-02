@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm [Nelly] [Uwimpuhwe]!
 
 <!--
-**uwimpuhwenelly/uwimpuhwenelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I currently worked on developing web app using html and css. I'm looking forward to exprole in learning and exploring new back-end and front-end technologies to gain more skills to make them in different project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🛠️ Technologies & Tools
+- **Frontend:**  HTML, CSS
+- **Tools:**  VS Code,
+
+## 🌱 Currently Learning
+- web development
 -->
