@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Nelly] [Uwimpuhwe]!
+## Hi there 👋 I'm Nelly Uwimpuhwe
 
 <!--
 ## 🚀 About Me
